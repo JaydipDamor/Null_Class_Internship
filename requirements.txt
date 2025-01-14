@@ -6,7 +6,7 @@ numpy==1.23.1
 pandas==1.4.3
 pillow==9.2.0
 
-For Age_detection_model
+For Animal_classification_model
 cv2==4.10.0
 numpy==1.26.4
 pandas==2.1.4
